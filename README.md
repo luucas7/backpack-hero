@@ -3,6 +3,7 @@
 Ce projet est un jeu codé en Java, à ouvrir sur Eclipse.
 
 Le jeu est inspiré de Backpack Hero, un jeu disponible sur https://thejaspel.itch.io/backpack-hero.
+
 Backpack Hero est un jeu de gestion d'inventaire de type roguelike. Vous devrez collecter des objets rares, organiser votre sac à dos et vaincre vos ennemis dans un donjon mystérieux.
 
 ## Fonctionnalités
